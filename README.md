@@ -12,7 +12,7 @@
 
 ## Инструкция
 
-Если у тебя нет наработок по шутеру, загрузи стартовый набор с одного из прошлых вебинаров. Пакет лежит [тут](https://github.com/copetonrob/YP_Unity_M3_W11/blob/main/packages/M3W11.unitypackage)
+Если у тебя нет наработок по шутеру, загрузи стартовый набор с одного из прошлых вебинаров. Пакет лежит [тут](https://github.com/copetonrob/YP_Unity_M3_W11/blob/main/M3W11.unitypackage)
 
 Главная сцена лежит в папке Assets/M3W11 и называется M3W11_basic
 
